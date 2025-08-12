@@ -1,0 +1,25 @@
+h1 {
+    color: #FFA500; /* Text color */
+    background-color: #001F3F; /* Background color */ 
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    color:#020965 /* Text color */
+}
+.center-block {
+    text-align: center;
+}
+h3 {
+    color:#020965 /* Text color  */
+}
+body {
+    background-color: #E0E0E0
+}
+div {
+   padding: 20px; /* space inside */
+   border: 2px solid black; /* border around padding */
+    margin: 15px; /* space outside */
+
+}
